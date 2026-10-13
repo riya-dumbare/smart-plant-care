@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+.env.local
+.vscode/
+firmware/smart_plant_esp32/secrets.h
